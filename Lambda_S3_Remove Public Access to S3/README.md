@@ -1,1 +1,1 @@
-Modify S3 Bucket Policies based on the event and store results in S3 Bucket 
+This lambda will remove public access to the S3 bucket if specified as "*" for the principal in the bucket policy. 
